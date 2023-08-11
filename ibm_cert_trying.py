@@ -1,1 +1,1 @@
-print("Hi I m a python nooby")
+print("Hi I m a python master")
